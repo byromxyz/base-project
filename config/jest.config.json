@@ -1,0 +1,6 @@
+{
+  "name": "css-in-js",
+  "verbose": true,
+  "testEnvironment": "jsdom",
+  "rootDir": "../"
+}
