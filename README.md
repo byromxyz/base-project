@@ -2,7 +2,7 @@
 
 This project provides scaffolding for a basic 'Hello world' web application. Solutions can either be written in Typescript or Javascript.
 
-When finished, please commit your code and push it to a remote git repository your interviewers have access to.
+When finished, please commit your code and push it to a private remote git repository your interviewers have access to.
 
 ## Installation
 - `npm i`
